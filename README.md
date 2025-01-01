@@ -49,7 +49,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bartek25822&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-![1](https://github.com/user-attachments/assets/e3c30134-5a00-429d-b855-a26b35de3dde)
+<br>
+<br>
+
+<div align="center">
+  <h1></h1>
+  <img height="500" src="1.gif"  />
+</div>
 
 
-[![](https://visitcount.itsvg.in/api?id=bartek25822&icon=0&color=0)](https://visitcount.itsvg.in)
