@@ -20,7 +20,7 @@
 
 <br>
 
-<div align="center">
+<div align="center", text-decoration="none">
   <h1>🌐 Socials:</h1>
   <a href="https://discordapp.com/users/894609918563348540" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
