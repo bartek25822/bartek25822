@@ -36,8 +36,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://imgflip.com/gif/9feu0x"  />
-</div>
+![giph5](https://github.com/user-attachments/assets/915df1ce-6425-43b4-9fac-b3f223d85ca1)
 
 ###
