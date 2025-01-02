@@ -44,7 +44,7 @@
 <br>
 
 <div align="center">
-  <h1>🌐 Itch.io Links:</h1>
+  <h1>🕹 Itch.io Links:</h1>
   <a href="https://set1i.itch.io/strategy-game" target="_blank">
     <img src="StrategyGameIcon1.png" height="65" alt="discord logo"  />
   </a>
