@@ -31,19 +31,6 @@
 </div>
 
 <br>
-
-<div align="center">
-  <h1>🌐 Itch.io Links:</h1>
-  <a href="https://set1i.itch.io/strategy-game" target="_blank">
-    <img src="StrategyGameIcon.png" height="65" alt="discord logo"  />
-  </a>
-  <img width="15" />
-  <a href="https://set1i.itch.io/test" target="_blank">
-    <img src="DungeonShooterGameIcon.png" height="65" alt="linkedin logo"  />
-  </a>
-</div>
-
-<br>
 <br>
 
 <div align="center">
@@ -57,6 +44,19 @@
 <br>
 
 <div align="center">
+  <h1>🌐 Itch.io Links:</h1>
+  <a href="https://set1i.itch.io/strategy-game" target="_blank">
+    <img src="StrategyGameIcon1.png" height="65" alt="discord logo"  />
+  </a>
+  <img width="30" />
+  <a href="https://set1i.itch.io/test" target="_blank">
+    <img src="DungeonShooterGameIcon1.png" height="65" alt="linkedin logo"  />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
   <h1>📊 GitHub Stats:</h1><br>
   <img src="https://github-readme-stats.vercel.app/api?username=bartek25822&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bartek25822&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -64,6 +64,8 @@
 
 <br>
 <br>
+
+
 
 <div align="center">
   <h1></h1>
