@@ -35,10 +35,11 @@
 <div align="center">
   <h1>🌐 Itch.io Links:</h1>
   <a href="https://set1i.itch.io/strategy-game" target="_blank">
-    <img src="StrategyGameIcon.png" height="35" alt="discord logo"  />
+    <img src="StrategyGameIcon.png" height="65" alt="discord logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/bartosz-czemerys-1240502a3/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  <img width="15" />
+  <a href="https://set1i.itch.io/test" target="_blank">
+    <img src="DungeonShooterGameIcon.png" height="65" alt="linkedin logo"  />
   </a>
 </div>
 
